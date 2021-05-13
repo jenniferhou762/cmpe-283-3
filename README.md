@@ -13,3 +13,13 @@ In my machine, there was 192400 exits.
 # Of the exit types defined in the SDM, which are the most frequent? Least?
 Most - External interrupt, WRMSR, EPT violation etc.
 Least - MOV DR and WINVD.
+
+# assignment 4
+## Include a sample of your print of exit count output from dmesg from “with ept” and “without ept”.
+Before: 
+After: 
+
+## What did you learn from the count of exits? Was the count what you expected? If not, why not?
+Yes the count is expected.
+The
+## What changed between the two runs (ept vs no-ept)?
